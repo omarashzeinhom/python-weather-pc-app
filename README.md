@@ -10,7 +10,7 @@ Weatherly is a python application  utilizing the tkinter gui framework as well a
 
 3. pip3 install request 
 
-4.python '.\Desert Themed Weather App Final .py'
+4.  python '.\Desert Themed Weather App Final .py'
 
 5. Enter Zip Code & Enjoy.
 
